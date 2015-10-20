@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a:link,a:visited{
+    color: #666;
+    text-decoration: none;
+}
+a:hover{
+    color: #009200;
+}
+#shortcut{
+    width: 100%;
+    height: 30px;
+    background: #f1f1f1;
+    border-bottom: 1px solid #ccc;
+    font-size: 12px;
+    font-family: "Î¢ÈíÑÅºÚ";
+}
+.shortcut-box{
+    width: 1200px;
+    line-height: 16px;
+    color: #666;
+    margin: 0 auto;
+    height: 30px;
+}
+.shortcut-box ul{
+    line-height: 16px;
+    float: right;
+}
+.shortcut-box li{
+    float: left;
+    border-right: 1px solid #ddd;
+    padding-right: 10px;
+    height: 16px;
+    line-height: 16px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.shortcut-box li p{
+    float: left;
+}
+.shortcut-box li p span{
+    float: left;
+}
+.shortcut-box li p a{
+    float: left;
+}
+a.zhuce{
+    color:#009200 ;
+}

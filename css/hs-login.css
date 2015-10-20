@@ -1,0 +1,157 @@
+*{
+    maring:0;
+    padding:0;
+    font-family: '微软雅黑';
+}
+.hs-login-logo{
+    position: absolute;
+    top:13px;
+    left:218px;
+}
+.hs-login-font{
+    position:absolute;
+    top:25px;
+    right:252px;
+    font-size:12px;
+    font-family: '微软雅黑';
+    color:#414141;
+}
+.hs-login-font a{
+    text-decoration: none;
+    color:#019002;
+}
+.hs-login-First{
+    position:absolute;
+    top:92px;
+    right:250px;
+    font-size:12px;
+}
+.hs-login-First a{
+    text-decoration:none;
+    color:#414141;
+}
+.hs-login-First a:hover{
+    text-decoration:underline;
+    color:green;
+}
+.hs-login-indentWrap{
+    width: 100%;
+    border-top:2px solid #33b437;
+    margin-top:120px;
+}
+.hs-login-box{
+
+    width: 1200px;
+
+}
+.hs-login-left{
+    margin-top:50px;
+    width: 54%;
+    border-right:1px solid #CCCCCC;
+    height: 350px;
+    float:left;
+}
+.hs-login-left img{
+    height: 290px;
+    padding-top:20px;
+    padding-left:230px;
+}
+.hs-login-right{
+    margin-top:50px;
+    float:left;
+}
+.hs-login-right-login{
+    margin-left:50px;
+    position:relative;
+}
+.hs-right-userLog-input{
+    height: 35px;
+    line-height: 35px;
+    margin-bottom:10px;
+    color: #cccccc;
+    width: 310px;
+    fonti-size:14px;
+}
+.hs-right-userLog{
+    font-family: '微软雅黑';
+    font-weight: bold;
+}
+.hs-right-auto{
+    font-size:12px;
+    height: 15px;
+}
+.hs-login-right-forget{
+    font-size:12px;
+    height: 15px;
+    float:right;
+    margin-top:-21px;
+}
+.hs-login-right-forget a{
+    text-decoration: none;
+    padding-left:20px;
+    color:green;
+}
+.hs-login-btnLogin{
+    width: 310px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin-left:52px;
+    background-color:green;
+    margin-top:30px;
+    color: #fff;
+    font-family: '宋体';
+    background:-webkit-linear-gradient(top,#3de058,#11aa18);
+    border-radius:3px;
+    border:1px solid #25c129;
+    cursor:pointer;
+}
+.hs-right-userLog-error1{
+    height: 25px;
+    line-height: 25px;
+    margin-bottom:10px;
+    color: #cc1638;
+    width: 180px;
+    display:none;
+    text-align: left;
+    position:absolute;
+    top:26px;
+    left:320px;
+    border:none;
+    font-size:14px;
+    /*background-color: #FF1655;*/
+}
+.hs-right-userLog-error2{
+    height: 25px;
+    line-height: 25px;
+    margin-bottom:10px;
+    color: #cc1c25;
+    width: 200px;
+    text-align: left;
+    display:none;
+    position:absolute;
+    top:76px;
+    left:320px;
+    border:none;
+    font-size:14px;
+}
+.hs-login-foot{
+    width: 880px;
+    padding-top:30px;
+    margin:0 auto;
+    clear:both;
+    margin-top:30px;
+    text-align: center;
+    font-size:12px;
+}
+.hs-login-foot a{
+    text-decoration: none;
+    color:#404040;
+}
+.hs-login-foot a:hover{
+    color:#019002;
+}
+.hs-login-foot-copy
+{
+   color: #919191;
+}

@@ -1,0 +1,860 @@
+﻿{
+  "daohang": [
+    {
+      "href": "index.html",
+      "title": "首页"
+    },
+    {
+      "href": "list.html",
+      "title": "建材城"
+    },
+    {
+      "href": "list.html",
+      "title": "家具城"
+    },
+    {
+      "href": "list.html",
+      "title": "家饰城"
+    },
+    {
+      "href": "list.html",
+      "title": "特价城"
+    },
+    {
+      "href": "list.html",
+      "title": "秒杀"
+    },
+    {
+      "href": "list.html",
+      "title": "新品"
+    },
+    {
+      "href": "list.html",
+      "title": "热销榜"
+    }
+  ],
+  "shunav1": {
+    "navtitle": [
+      {
+        "href": "list.html",
+        "title": "建材"
+      }
+    ],
+    "navcon": [
+      {
+        "href": "list.html",
+        "title": "灯饰照明"
+      },
+      {
+        "href": "list.html",
+        "title": "厨房用品"
+      },
+      {
+        "href": "list.html",
+        "title": "卫浴用品"
+      },
+      {
+        "href": "list.html",
+        "title": "家装五金"
+      },
+      {
+        "href": "list.html",
+        "title": "墙地面"
+      }
+    ]
+  },
+  "rightdata1": {
+    "rightnav1": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "灯饰照明"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "吸顶灯"
+        },
+        {
+          "href": "list.html",
+          "title": "吊灯"
+        },
+        {
+          "href": "list.html",
+          "title": "壁灯"
+        },
+        {
+        "href": "list.html",
+        "title": "落地灯"
+        },
+        {
+        "href": "list.html",
+        "title": "台灯"
+        }
+      ]
+    },
+    "rightnav2": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "厨房用品"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "厨盆/水槽"
+        },
+        {
+          "href": "list.html",
+          "title": "厨房龙头"
+        },
+        {
+          "href": "list.html",
+          "title": " 角阀"
+        },
+        {
+          "href": "list.html",
+          "title": " 厨房挂件"
+        },
+        {
+          "href": "list.html",
+          "title": " 厨房用品套装"
+        },
+        {
+          "href": "list.html",
+          "title": "其他厨房配件"
+        }
+
+      ]
+    },
+    "rightnav3": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "卫浴用品"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "淋浴房"
+        },
+        {
+          "href": "list.html",
+          "title": "卫浴挂件"
+        },
+        {
+          "href": "list.html",
+          "title": "地漏"
+        },
+        {
+          "href": "list.html",
+          "title": "座便器"
+        },
+        {
+          "href": "list.html",
+          "title": "洗面盆"
+        },
+        {
+          "href": "list.html",
+          "title": "蹲便器"
+        },
+        {
+          "href": "list.html",
+          "title": "座便器盖板"
+        },
+        {
+          "href": "list.html",
+          "title": "沐浴桶/沐浴盆"
+        },
+        {
+          "href": "list.html",
+          "title": "浴室用品"
+        },
+        {
+          "href": "list.html",
+          "title": "卫浴用品套装"
+        },
+        {
+          "href": "list.html",
+          "title": "其他卫浴配件"
+        }
+
+      ]
+    },
+    "rightnav4": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "家装五金"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "开关插座"
+        },
+        {
+          "href": "list.html",
+          "title": "锁具"
+        },
+        {
+          "href": "list.html",
+          "title": "锁具门吸"
+        },
+        {
+          "href": "list.html",
+          "title": "合页"
+        }
+      ]
+    },
+    "rightnav5": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "墙地面"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "门"
+        },
+        {
+          "href": "list.html",
+          "title": "墙纸"
+        },
+        {
+          "href": "list.html",
+          "title": "地板"
+        },
+        {
+          "href": "list.html",
+          "title": "吊顶"
+        },
+        {
+          "href": "list.html",
+          "title": "辅助材料"
+        }
+      ]
+    },
+    "rightnav6": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "其 他"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "背景墙"
+        },
+        {
+          "href": "list.html",
+          "title": "玻璃"
+        }
+      ]
+    },
+    "tuijian":[
+      {
+        "href":"list.html",
+        "src":"images/tjpp/jinruilong.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/qianbaidu.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/ruoyicizhuan.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/keaoweiyu.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/guangzhongtian.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/dire42.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/jinke.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/tiangediban.jpg"
+      }
+    ]
+  },
+  "shunav2": {
+    "navtitle": [
+      {
+        "href": "list.html",
+        "title": "家具"
+      }
+    ],
+    "navcon": [
+      {
+        "href": "list.html",
+        "title": "卧室"
+      },
+      {
+        "href": "list.html",
+        "title": "客厅"
+      },
+      {
+        "href": "list.html",
+        "title": "餐厅"
+      },
+      {
+        "href": "list.html",
+        "title": "户外"
+      },
+      {
+        "href": "list.html",
+        "title": "书房"
+      },
+      {
+        "href": "list.html",
+        "title": "儿童房"
+      },
+      {
+        "href": "list.html",
+        "title": "办公家具"
+      }
+    ]
+  },
+  "rightdata2": {
+    "rightnav1": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "卧室"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "床"
+        },
+        {
+          "href": "list.html",
+          "title": "床垫"
+        },
+        {
+          "href": "list.html",
+          "title": "床尾凳"
+        },
+        {
+          "href": "list.html",
+          "title": "床头柜"
+        },
+        {
+          "href": "list.html",
+          "title": "衣柜"
+        },
+        {
+          "href": "list.html",
+          "title": "斗柜"
+        },
+        {
+          "href": "list.html",
+          "title": "妆台镜/妆凳"
+        },
+        {
+          "href": "list.html",
+          "title": "穿衣镜/衣帽架"
+        },
+        {
+          "href": "list.html",
+          "title": "木炕"
+        },
+        {
+          "href": "list.html",
+          "title": "榻榻米"
+        },
+        {
+          "href": "list.html",
+          "title": "智能家居"
+        },
+        {
+          "href": "list.html",
+          "title": "卧室套装"
+        },
+        {
+          "href": "list.html",
+          "title": "卧室其他"
+        }
+
+      ]
+    },
+    "rightnav2": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "客厅"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "沙发"
+        },
+        {
+          "href": "list.html",
+          "title": "茶几/边桌"
+        },
+        {
+          "href": "list.html",
+          "title": "鞋柜"
+        },
+        {
+          "href": "list.html",
+          "title": "酒柜/装饰柜/间厅柜"
+        },
+        {
+          "href": "list.html",
+          "title": "屏风| 凳类/椅子"
+        },
+        {
+          "href": "list.html",
+          "title": "电视柜"
+        },
+        {
+          "href": "list.html",
+          "title": "花架"
+        },
+        {
+          "href": "list.html",
+          "title": "智能家居"
+        },
+        {
+          "href": "list.html",
+          "title": "客厅套装"
+        },
+        {
+          "href": "list.html",
+          "title": "客厅其他"
+        }
+
+      ]
+    },
+    "rightnav3": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "餐厅"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "餐桌"
+        },
+        {
+          "href": "list.html",
+          "title": "餐椅"
+        },
+        {
+          "href": "list.html",
+          "title": "餐边柜"
+        },
+        {
+          "href": "list.html",
+          "title": "智能家居"
+        },
+        {
+          "href": "list.html",
+          "title": "餐厅套装"
+        },
+        {
+          "href": "list.html",
+          "title": "餐厅其他"
+        }
+
+      ]
+    },
+    "rightnav4": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "户外"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "吊篮/吊椅"
+        },
+        {
+          "href": "list.html",
+          "title": "休闲椅"
+        },
+        {
+          "href": "list.html",
+          "title": "休闲桌"
+        },
+        {
+          "href": "list.html",
+          "title": "秋千"
+        },
+        {
+          "href": "list.html",
+          "title": "摇椅"
+        },
+        {
+          "href": "list.html",
+          "title": "藤艺家具"
+        },
+        {
+          "href": "list.html",
+          "title": "遮阳伞"
+        },
+        {
+          "href": "list.html",
+          "title": "躺床"
+        },
+        {
+          "href": "list.html",
+          "title": "户外套装"
+        }
+      ]
+    },
+    "rightnav5": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "书房"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "书桌"
+        },
+        {
+          "href": "list.html",
+          "title": "书柜/书架"
+        },
+        {
+          "href": "list.html",
+          "title": "书椅/转椅"
+        },
+        {
+          "href": "list.html",
+          "title": "电脑桌"
+        },
+        {
+          "href": "list.html",
+          "title": "智能家居"
+        },
+        {
+          "href": "list.html",
+          "title": "书房套装"
+        }
+      ]
+    },
+    "rightnav6": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "儿童房"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "儿童床"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童床头柜"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童书桌"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童椅"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童衣柜"
+        },
+        {
+          "href": "list.html",
+          "title": "智能家居"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童房套装"
+        },
+        {
+          "href": "list.html",
+          "title": "儿童房其他"
+        }
+      ]
+    },
+    "rightnav7": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "办公家具"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "办公沙发"
+        },
+        {
+          "href": "list.html",
+          "title": "文件柜"
+        },
+        {
+          "href": "list.html",
+          "title": "办公椅"
+        },
+        {
+          "href": "list.html",
+          "title": "办公桌"
+        },
+        {
+          "href": "list.html",
+          "title": "办公家具套装"
+        }
+      ]
+    },
+    "tuijian":[
+      {
+        "href":"list.html",
+        "src":"images/tjpp/1.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/2.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/3.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/4.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/5.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/6.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/7.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/8.jpg"
+      }
+    ]
+  },
+  "shunav3": {
+    "navtitle": [
+      {
+        "href": "list.html",
+        "title": "家饰"
+      }
+    ],
+    "navcon": [
+      {
+        "href": "list.html",
+        "title": "布艺织物"
+      },
+      {
+        "href": "list.html",
+        "title": "居家日用"
+      },
+      {
+        "href": "list.html",
+        "title": "床品精选"
+      },
+      {
+        "href": "list.html",
+        "title": "床品精选"
+      }
+    ]
+  },
+  "rightdata3": {
+    "rightnav1": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "布艺织物"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "窗帘"
+        },
+        {
+          "href": "list.html",
+          "title": "地毯"
+        },
+        {
+          "href": "list.html",
+          "title": "桌布"
+        },
+        {
+          "href": "list.html",
+          "title": "轨道/罗马杆"
+        },
+        {
+          "href": "list.html",
+          "title": "罩件"
+        },
+        {
+          "href": "list.html",
+          "title": "沙发套/垫"
+        }
+
+      ]
+    },
+    "rightnav2": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "居家日用"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "清洁用品"
+        },
+        {
+          "href": "list.html",
+          "title": "家用梯"
+        },
+        {
+          "href": "list.html",
+          "title": "晾衣架"
+        },
+        {
+          "href": "list.html",
+          "title": "收纳"
+        }
+      ]
+    },
+    "rightnav3": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "床品精选"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "枕芯"
+        },
+        {
+          "href": "list.html",
+          "title": "被套"
+        },
+        {
+          "href": "list.html",
+          "title": "毛毯"
+        },
+        {
+          "href": "list.html",
+          "title": "床褥"
+        },
+        {
+          "href": "list.html",
+          "title": "床品套件"
+        }
+
+      ]
+    },
+    "rightnav4": {
+      "navtitle": [
+        {
+          "href": "list.html",
+          "title": "家居饰品"
+        }
+      ],
+      "navcon": [
+        {
+          "href": "list.html",
+          "title": "相框/照片墙"
+        },
+        {
+          "href": "list.html",
+          "title": "装饰灯"
+        },
+        {
+          "href": "list.html",
+          "title": "挂件"
+        }
+      ]
+    },
+    "tuijian":[
+      {
+        "href":"list.html",
+        "src":"images/tjpp/kaimate.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/oumeishijia.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/panpanshaiyijia.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/kangli.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/lingluofang.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/yidalimilan.jpg"
+      },
+      {
+        "href":"list.html",
+        "src":"images/tjpp/jinxiubuyi.jpg"
+      }
+    ]
+  },
+  "hotarea":[
+    {
+      "href": "list.html",
+      "title": "秒杀"
+    },
+    {
+      "href": "list.html",
+      "title": "新品"
+    },
+    {
+      "href": "list.html",
+      "title": "热销榜"
+    },{
+      "href": "list.html",
+      "title": "直销城"
+    }
+  ]
+}

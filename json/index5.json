@@ -1,0 +1,45 @@
+{
+  "nametitle":["特价城"],
+  "tejia":[
+      {
+        "url":"images/tc/tc01.jpg",
+        "title":"超柔数码印花面料饰面组合沙发",
+        "xn":"[ 克度国际旗舰店 ]",
+        "jg":"4790",
+        "yj":"5790",
+        "href":"list.html"
+      },
+      {
+        "url":"images/tc/tc02.jpg",
+        "title":"韩式风格 板木 橡牙白直边书台",
+        "xn":"进口LED芯片 无极调光调色",
+        "jg":"1935",
+        "yj":"2890",
+        "href":"list.html"
+      },
+      {
+        "url":"images/tc/tc03.jpg",
+        "title":"双人位沙发多功能可折叠沙发床",
+        "xn":"[ 尚然格林旗舰店 ]",
+        "jg":"1730",
+        "yj":"2640",
+        "href":"list.html"
+      },
+      {
+        "url":"images/tc/tc04.jpg",
+        "title":"现代休闲风格头层黄牛真皮2米床",
+        "xn":"[ 欧奢 ]",
+        "jg":"2970",
+        "yj":"3840",
+        "href":"list.html"
+      },
+    {
+      "url":"images/tc/tc05.jpg",
+      "title":"德宝 美式风格柏木玄关桌",
+      "xn":"[ 德宝家具 ]",
+      "jg":"1380",
+      "yj":"2640",
+      "href":"list.html"
+    }
+    ]
+}

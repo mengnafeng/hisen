@@ -1,0 +1,64 @@
+{
+"product":[
+  {
+    "url":"detail.html",
+    "title":"西蒙电气 明盟水晶灯9686",
+    "src":"images/01.jpg",
+    "price":"580"
+  },
+  {
+    "url":"detail.html",
+    "title":"西蒙电气 客厅灯 莱亭6头",
+    "src":"images/02.jpg",
+    "price":"5480"
+  },
+  {
+    "url":"detail.html",
+    "title":"西蒙电气 客厅灯 金府686",
+    "src":"images/03.jpg",
+    "price":"2580"
+  }
+],
+  "brand":[
+    {"url":"javascript:;", "src":"images/logo01.jpg"},
+    {"url":"javascript:;", "src":"images/logo02.jpg"},
+    {"url":"javascript:;", "src":"images/logo03.jpg"},
+    {"url":"javascript:;", "src":"images/logo04.jpg"},
+    {"url":"javascript:;", "src":"images/logo05.jpg"}
+  ],
+  "styles":[
+    {"url":"javascript:;", "title":"欧式"},
+    {"url":"javascript:;", "title":"中式"},
+    {"url":"javascript:;", "title":"现代"},
+    {"url":"javascript:;", "title":"新古典"},
+    {"url":"javascript:;", "title":"田园"}
+  ],
+  "materials":[
+    {"url":"javascript:;", "title":"铁艺"},
+    {"url":"javascript:;", "title":"钢化玻璃"},
+    {"url":"javascript:;", "title":"不锈钢"},
+    {"url":"javascript:;", "title":"工艺玻璃"},
+    {"url":"javascript:;", "title":"钢铁"},
+    {"url":"javascript:;", "title":"合金"},
+    {"url":"javascript:;", "title":"亚克力"},
+    {"url":"javascript:;", "title":"陶瓷"},
+    {"url":"javascript:;", "title":"布艺"},
+    {"url":"javascript:;", "title":"铝"},
+    {"url":"javascript:;", "title":"水晶"},
+    {"url":"javascript:;", "title":"有机玻璃"},
+    {"url":"javascript:;", "title":"玻璃灯管"},
+    {"url":"javascript:;", "title":"环保阻燃塑料"},
+    {"url":"javascript:;", "title":"树脂"},
+    {"url":"javascript:;", "title":"仿羊皮"},
+    {"url":"javascript:;", "title":"纳米玻璃"},
+    {"url":"javascript:;", "title":"其他实木"}
+  ],
+  "prices":[
+    {"url":"javascript:;", "price":"0-100元"},
+    {"url":"javascript:;", "price":"100-499元"},
+    {"url":"javascript:;", "price":"500-999元"},
+    {"url":"javascript:;", "price":"1000-2499"},
+    {"url":"javascript:;", "price":"2500-5000"},
+    {"url":"javascript:;", "price":"5000元以上"}
+  ]
+}

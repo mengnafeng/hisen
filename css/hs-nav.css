@@ -1,0 +1,63 @@
+/*
+    nav --- 导航部分 -----------------------------------------------
+*/
+a{display:inline-block;}
+#nav{ width: 100%; height: 40px; background: #009201;}
+.navWrap_left{ width: 210px; background: #007a01;}
+.navWrap_left .tit{ text-align: center; color: #ffffff; height: 40px; line-height: 40px; font-size: 16px; font-weight: bold; border-left: 1px solid #007401; display: block;}
+.navWrap_cen{ font-size: 14px; height: 40px; text-align: center;}
+.navWrap_cen a{  height: 40px; line-height: 40px; padding: 0 26px; display: block; color: #ffffff; float: left; font-size: 15px; cursor: pointer;}
+.navWrap_cen div{ color: #FFF; display: inline-block; padding: 0 20px; height: 40px; line-height: 40px; text-decoration: none; font-size: 15px; cursor: pointer; position: relative; float: left;}
+.navWrap_cen span{position: absolute; top: -20px; right: 50%; margin-right: -14px; z-index: 2;}
+.navWrap_right{ width: 110px; height: 46px; text-align: center; line-height: 46px; margin-right: 64px; margin-top: -6px; font-size: 15px;}
+.navWrap_right a{ color: #ffffff;}
+
+
+/*
+    nav_sub -- 左侧导航 -----------------------------------------------
+*/
+.navWrap_cen a:hover{
+    color: #fff;
+    background: none;
+    text-decoration: underline;
+}
+.nav_sub { background: #FFF;}
+.nav_sub .nav_L { width: 210px; position: absolute; z-index: 200;box-shadow: 2px 1px 8px #000000; -webkit-box-shadow: 2px 1px 8px #000000; -moz-box-shadow: 2px 1px 8px #000000; background: #FFF;}
+.nav_sub ul { width: 208px; position: relative; border-left: 1px solid #EAEAEA; border-right: 1px solid #EAEAEA; }
+.nav_sub ul li { width: 185px; height: 100px; border-bottom: 1px solid #EAEAEA; padding: 10px; padding-bottom: 0; border-top: 1px solid #FFF; border-left: 4px solid #FFF; background: #FFF;}
+.nav_sub ul li dl { width: 196px; height: 100px; position: relative; z-index: 30;}
+.nav_sub ul li dt { font-weight: bold; font-size: 14px; margin-bottom: 14px;}
+.tb_l, .tb_k { float: left;}
+.tb_l.h1 { width: 20px; height: 20px;}
+.tb_k { display: block; margin-left: 5px;}
+.clear_j { clear: both; }
+
+.nav_sub ul li dd { margin-bottom: 10px; line-height: 22px;}
+.nav_sub ul li dd a { margin-right: 12px;}
+
+.nav_sub div.divWrap span { padding: 0 9px;}
+
+.nav_sub div.divWrap { width: 0px; height:380px; padding: 10px 10px 10px 20px; border: 1px solid #b8b8b8; position: absolute; top: -0.5px; left: 210px; z-index: 380; background: #FFF; display: none; overflow:hidden;}
+.nav_sub div.divWrap .divWrapone { width: 540px;height:400px; background:#fff; float: left; display: block; overflow:hidden;}
+.nav_sub div.divWrap div { overflow: hidden; border-bottom: 1px solid #ddd; padding-bottom: 10px; }
+.nav_sub div.divWrap div p{ line-height: 22px; text-align: justify;}
+.nav_sub div.divWrap p.nav_sub3 { width: 66px; text-align: left; padding-left: 5px;}
+.nav_sub div.divWrap p.nav_sub4 { padding-left: 15px; width: 430px; }
+
+.nav_sub div.divWrap .divWraptwo { width: 200px; background: rgb(249,249,249); height: 380px; float: right; display: block;}
+
+
+.hot_nav { width: 195px; border-bottom: 1px solid #EAEAEA; border-left: 1px solid #EAEAEA; border-top: 1px solid #FFF; padding-left: 14px; padding-top: 14px; background: #FFF;}
+.hot_nav dl { width: 195px; margin-bottom: 10px; }
+.hot_nav dt { font-weight: bold; font-size: 14px; }
+.hot_nav dt span { margin-right: 15px; margin-bottom: 9px; display: inline-block; }
+.hot_nav dt span a { text-decoration: none; cursor: pointer;}
+
+
+
+
+
+
+
+
+

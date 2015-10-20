@@ -1,0 +1,166 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration:none;
+    font-family: '微软雅黑';
+}
+
+.hs-login-logo{
+    position: absolute;
+    top:13px;
+    left:218px;
+}
+.hs-login-font{
+    position:absolute;
+    top:25px;
+    right:252px;
+    font-size:12px;
+    font-family: '微软雅黑';
+    color:#414141;
+}
+.hs-login-font a{
+    text-decoration: none;
+    color:#019002;
+}
+.hs-login-First{
+    position:absolute;
+    top:92px;
+    right:250px;
+    font-size:12px;
+}
+.hs-login-First a{
+    text-decoration:none;
+    color:#414141;
+}
+.hs-login-First a:hover{
+    text-decoration:underline;
+    color:green;
+}
+.hs-reg-box{
+    margin:0 auto;
+    margin-top:120px;
+    width: 880px;
+    height: 425px;
+    border: 1px solid #CCCCCC;
+    position:relative;
+}
+.hs-reg-box-left{
+    border-right:1px dashed #ccc;
+    width: 530px;
+    margin-top:40px;
+    float: left;
+}
+.hs-reg-box-left p{
+    width: 140px;
+    margin-bottom:30px;
+    text-align: right;
+    display: inline-block;
+    margin-right: 10px;
+}
+.hs-reg-regNew{
+    text-align: left;
+    width: 100px;
+
+    margin-left:-5px;
+    font-size:20px;
+}
+.hs-login-font a{
+    font-size:12px;
+}
+.hs-reg-xy {
+    font-size: 12px;
+    margin-left:118px;
+    /*text-align: center;*/
+    height: 20px;
+    line-height: 20px;
+}
+.hs-reg-detail{
+    font-size: 14px;
+}
+.hs-reg-detail .hs-reg-xy input{
+    float:left;
+    width: 20px;
+    height: 20px;
+}
+.hs-reg-xy span{
+    display:block;
+    float:left;
+    padding-left:5px;
+    color:#000 !important;
+}
+
+.hs-reg-btnLogin{
+    font-size:12px;
+    float:right;
+    cursor:pointer;
+    margin-right: 25px;
+    margin-top: 100px;
+}
+.hs-reg-detail input{
+    height: 22px;
+    line-height: 22px;
+    width: 230px;
+    border: 1px solid #ccc;
+    height: 30px;
+    border-radius: 2px;
+    margin-right: 10px;
+}
+.hs-reg-btnLogin img{
+    display: block;
+    width: 300px;
+    margin-top: 25px;
+}
+.hs-reg-detail span{
+    color:red;
+}
+.hs-reg-btnLogin input{
+    height: 30px;
+    width: 100px;
+    font-size:14px;
+    cursor:pointer;
+}
+.hs-reg-btnLogin span{
+    padding-right: 10px;
+    font-size: 14px;
+    color:#666;
+    margin-bottom: 25px;
+}
+.hs-reg-btnRegist{
+    width: 80px;
+    height: 30px;
+    font-size: 14px;
+    margin-left:158px;
+    color: #fff;
+    margin-top:20px;
+    background:-webkit-linear-gradient(top,#3de058,#11aa18);
+    border-radius:3px;
+    border:1px solid #25c129;
+    cursor:pointer;
+}
+.hs-reg-box .hs-reg-detail img{
+    height: 21px;
+    margin-bottom:-6px;
+    margin-right: 10px;
+}
+.hs-login-foot{
+    width: 880px;
+    padding-top:30px;
+    margin:0 auto;
+    clear:both;
+    text-align: center;
+    font-size:12px;
+}
+.hs-login-foot p{
+    margin-bottom:10px;
+}
+.hs-login-foot a{
+    text-decoration: none;
+    color:#404040;
+}
+.hs-login-foot a:hover{
+    color:#019002;
+}
+.hs-login-foot-copy
+{
+    color: #919191;
+}
