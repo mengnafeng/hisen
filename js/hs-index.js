@@ -156,7 +156,7 @@ $(function(){
 		});
 
 		//加载底部模块
-		indexFn.dataBind("json/foot.json",function(data){
+		indexFn.dataBind("//mengnafeng.github.io/hisen/json/foot.json",function(data){
 			HS_footerWrap.footerModule($('body'),data);
 		});
 
