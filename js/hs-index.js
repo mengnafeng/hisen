@@ -50,7 +50,7 @@ $(function(){
             dataBind:function(url,callback){
                 $.ajax({
                     url:url,
-                    type:"post",
+                    type:"get",
                     success:function(data){
                         callback(data);
                     }

@@ -5,7 +5,7 @@ $(function(){
     var HS_detail = {};
     HS_detail.dataBind = function(url,callback){
         $.ajax({
-            type:"post",
+            type:"get",
             url:url,
             success:function(data){
                 callback(data)
